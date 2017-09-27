@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#111a23</color>
+    <color name="colorPrimaryDark">#111a23</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="btnSignUp">#ff4081</color>
+    <color name="btnSignActive">#efefef</color>
+    <color name="btnGoogleSignActive">#c3fc3b</color>
+
+    <color name="txtButton">#111a23</color>
+    <color name="navbarItem">#111a23</color>
+    <color name="ringItem">#fff</color>
+
+    <color name="overlayBackground">#111a23</color>
+    <color name="overlayActionBar">#c3fc3b</color>
+</resources>
